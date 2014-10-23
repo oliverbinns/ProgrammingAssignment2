@@ -1,15 +1,14 @@
-## Put comments here that give an overall description of what your
-## functions do
+# Submission for Coursera Course rprog-008 Week 2 Programming Assignment
+# Oliver Binns
 
-## Write a short comment describing this function
+# This file contains two functions...
 
+# Function description
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
-
-## Write a short comment describing this function
-
+# Function description
 cacheSolve <- function(x, ...) {
-        ## Return a matrix that is the inverse of 'x'
+        # Return a matrix that is the inverse of 'x'
 }
