@@ -4,7 +4,8 @@
 # This file contains two functions which can calculate and cache the inverse of a matrix
 
 
-# Caching function that can hold a matrix and its inverse through get/set/getinverse/setinvserse methods)
+# Caching function that can hold a matrix and its inverse through
+# get/set/getinverse/setinvserse functions
 # Called by the user the set a matrix and the cacheSolve function (below) for other methods
 makeCacheMatrix <- function(x = matrix()) {
     m <- NULL
